@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>favourite</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.876955,6.804445 C19.798585,6.619875 19.61743,6.5 19.41675,6.5 L13.318115,6.5 L10.45288,0.37158 C10.370605,0.195555 10.19409,0.08325 10,0.08325 C9.80591,0.08325 9.629395,0.195555 9.54712,0.37158 L6.681885,6.5 L0.58325,6.5 C0.382565,6.5 0.201415,6.619875 0.123045,6.804445 C0.044675,6.989015 0.083985,7.20264 0.223385,7.34717 L4.7395,12.030765 L2.92334,19.295415 C2.874755,19.48975 2.94678,19.69434 3.106445,19.81519 C3.26611,19.93604 3.482665,19.949955 3.656495,19.850835 L10,16.22583 L16.343505,19.85083 C16.420655,19.89502 16.506105,19.91675 16.59155,19.91675 C16.69824,19.91675 16.804685,19.88257 16.89355,19.81519 C17.05322,19.69434 17.12524,19.48975 17.076655,19.295415 L15.2605,12.03076 L19.776615,7.347165 C19.916015,7.202635 19.95532,6.989015 19.876955,6.804445 Z" id="path-1"></path>
+        <filter x="-50.4%" y="-40.3%" width="200.8%" height="200.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.101732337 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Visual---123Credit---Homepage3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-464.000000, -1240.000000)">
+        <g id="favourite" transform="translate(471.000000, 1245.000000)" fill-rule="nonzero">
+            <g id="Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#E4AE55" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#FFFFFF" stroke-width="3" d="M16.9173447,12.4734842 L18.5318665,18.9316028 C18.7262112,19.7089612 18.4379161,20.5275044 17.7998324,21.0104524 C17.4501118,21.2756206 17.02545,21.41675 16.59155,21.41675 C16.2447315,21.41675 15.9023042,21.3267524 15.5992749,21.1531823 L10.0000004,17.9534733 L4.39950833,21.1538819 C3.70439152,21.550246 2.83945108,21.4943288 2.20117415,21.0112187 C1.56208188,20.5274915 1.27378462,19.7089581 1.46812613,18.931612 L3.08265477,12.4734886 L-0.856262794,8.38849639 C-1.41339276,7.81086372 -1.57113912,6.95650309 -1.25764586,6.21819186 C-0.944003134,5.47952862 -0.219200916,5 0.58325,5 L5.7273395,5 L8.18823012,-0.263572191 C8.51710209,-0.967184313 9.22336688,-1.41675 10,-1.41675 C10.7766331,-1.41675 11.4828979,-0.967184313 11.8117036,-0.263714059 L14.2726605,5 L19.41675,5 C20.2191956,5 20.944003,5.47952832 21.2576459,6.21819186 L21.2576593,6.21822355 C21.5711275,6.95652285 21.4133885,7.81086317 20.8564055,8.38834342 L16.9173447,12.4734842 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

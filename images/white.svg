@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="207px" height="13px" viewBox="0 0 207 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Line/white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Visual---123Credit---Homepage3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-697.000000, -3801.000000)">
+        <g id="Group-9" transform="translate(0.000000, 3623.000000)">
+            <g id="Section">
+                <g id="Line/white" transform="translate(697.000000, 178.000000)">
+                    <path d="M0.5,6.5 L88.6383879,6.5" id="Line-4" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M117.5,6.5 L205.64,6.5" id="Line-4-Copy" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <rect id="Rectangle-4" fill="#FFFFFF" transform="translate(103.500000, 6.500000) rotate(-315.000000) translate(-103.500000, -6.500000) " x="99" y="2" width="9" height="9" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
